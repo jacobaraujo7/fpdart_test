@@ -1,0 +1,14 @@
+name: fpdart_test
+description: Support for specifying test expectations fo fpdart lib.
+version: 0.0.1
+# homepage: https://www.example.com
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies:
+  fpdart: '>=0.3.0 <1.0.0'
+
+dev_dependencies:
+  test: '>=1.12.0 <2.0.0'
+  
